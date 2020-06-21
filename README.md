@@ -2,7 +2,19 @@
 
 ## Run Project!
 
-To run project, on your command line, use this command:
+The app is built by parcel.js, so install parcel gloabally, first:
+
+```
+yarn global add parcel-bundler
+```
+
+or using npm
+
+```
+npm install -g parcel-bundler
+```
+
+Then install dependencies and run the app:
 
 ```
 yarn
