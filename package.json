@@ -1,0 +1,16 @@
+{
+  "name": "runner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "parcel": "^2.0.0-alpha.3.2",
+    "sass": "^1.26.5"
+  },
+  "dependencies": {
+    "gsap": "^3.2.6",
+    "hammerjs": "^2.0.8",
+    "three": "^0.116.1"
+  }
+}
