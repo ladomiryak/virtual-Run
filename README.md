@@ -2,7 +2,7 @@
 
 ## Run Project!
 
-The app is built by parcel.js, so install parcel gloabally, first:
+The app is built with parcel.js, so install parcel gloabally, first:
 
 ```
 yarn global add parcel-bundler
