@@ -11,6 +11,6 @@
   "dependencies": {
     "gsap": "^3.2.6",
     "hammerjs": "^2.0.8",
-    "three": "^0.116.1"
+    "three": "^0.125.0"
   }
 }
